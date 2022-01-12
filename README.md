@@ -1,10 +1,12 @@
 # Facial-Expression-Recognition
 Facial expressions can inform researchers about an individual's emotional state and can be used to suggests various opinion based on it, such as suggest some good music for happy face, suggest good video to make someone happy from his sad state, observing audience emotion over specific notice, etc.
+It can also be used to train robots based on human behaviours, like how human react on specific words or how do human reacts after listening to something.
 
 ### This repo contains:
-+ Project report jupyter notebook
-+ Presentation file
-+ Application script
++ project report jupyter notebook(.ipynb)
++ Presentation file(.pdf)
++ Application script(.py)
++ CNN saved model(.h5)
 
 ### How to use:
 
