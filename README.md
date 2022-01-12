@@ -3,6 +3,7 @@ Facial expressions can inform researchers about an individual's emotional state 
 It can also be used to train robots based on human behaviours, like how human react on specific words or how do human reacts after listening to something.
 
 **Output:**
+
 ![](https://github.com/CosmiX-6/Facial-Expression-Recognition/blob/f939502df17a2f7efa7d8518945299c5581d7e34/output-example.gif)
 
 ### This repo contains:
